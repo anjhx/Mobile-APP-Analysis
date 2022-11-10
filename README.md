@@ -9,5 +9,5 @@ The ever-changing mobile landscape is a challenging space to navigate. The perce
 ## About Dataset
 This data set contains more than 7200 Apple iOS mobile application details. The data was extracted from the iTunes Search API at the Apple Inc website. 
 
-[Our streamlist App URL:]()
-[Github repro URL:]()
+[Our streamlist App URL:](https://anjhx-team42-final-rr0a9b.streamlit.app/)
+[Github repro URL:](https://anjhx.github.io/team42/)
