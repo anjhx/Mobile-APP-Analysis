@@ -1,5 +1,5 @@
-# team-42
- final project team 42
+# Mobile app analysis
+final project team 42 by Xinyu Hu and Linjie Zhou
 
 ## Background and significance of database seletion
 Mobile App Statistics (Apple iOS app store):  
