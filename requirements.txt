@@ -1,7 +1,8 @@
 streamlit
-matplotlib
 pandas
 numpy
 seaborn
 pylab
 plotly
+matplotlib
+
