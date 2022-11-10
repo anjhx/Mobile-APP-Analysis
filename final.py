@@ -1,5 +1,5 @@
 import streamlit as st
-from streamlit_elements import media
+
 import matplotlib.pyplot as plt
 
 import pandas as pd
@@ -7,7 +7,7 @@ import numpy as np
 import seaborn as sns
 from pylab import *
 import plotly.express as px
-import plotly.graph_objects as go                               
+                            
 
 #from pyecharts.charts import Pie
 #import streamlit_echarts as ste
