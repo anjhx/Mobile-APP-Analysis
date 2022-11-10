@@ -11,4 +11,4 @@ This data set contains more than 7200 Apple iOS mobile application details. The 
 
 [Our streamlist App URL](https://anjhx-team42-final-rr0a9b.streamlit.app/)
 <br>
-[Github repo URL](https://anjhx.github.io/team42/)
+[Github repo URL](https://github.com/anjhx/team42)
