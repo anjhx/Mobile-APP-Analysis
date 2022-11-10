@@ -1,9 +1,8 @@
 import streamlit as st
-
-import matplotlib.pyplot as plt
-
 import pandas as pd
 import numpy as np
+import matplotlib.pyplot as plt
+
 import seaborn as sns
 from pylab import *
 import plotly.express as px
